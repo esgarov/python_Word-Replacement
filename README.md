@@ -13,6 +13,7 @@ This script is used from the command line with three arguments:
 **Here is an example usage**:
 ```bash
 python3 word_replacement.py oldWord newWord /path/to/your/directory
+```
 
 ## Functionality
 
